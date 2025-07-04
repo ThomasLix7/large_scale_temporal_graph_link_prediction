@@ -3,7 +3,10 @@
 
 # But include these specific files
 !temporal_graph_link_prediction.py
+!temporal_graph_link_prediction_tgb.py
+!run_ensemble_on_wiki.py
 !CollegeMsg_edges.txt
+!data/
 
 # Also include git files and this .gitignore
 !.gitignore
